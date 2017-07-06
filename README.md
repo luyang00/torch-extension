@@ -1,5 +1,5 @@
 # torch-extension
-This is an example of a CUDA extension for Torch which computes the Hadamard productof two tensors.
+This is an example of a CUDA extension for Torch which computes the Hadamard product of two tensors.
 
 For the PyTorch version of this extension, please see: https://github.com/sniklaus/pytorch-extension
 
