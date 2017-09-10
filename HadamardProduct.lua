@@ -1,6 +1,6 @@
 local HadamardProduct, parent = torch.class('nn.HadamardProduct', 'nn.Module')
 
-function HadamardProduct:__init(intInputDepth, intFilterHeight, intFilterWidth)
+function HadamardProduct:__init()
 	parent.__init(self)
 
 	if true then
